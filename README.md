@@ -1,5 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Sohail Akhtar ALi</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
+ <img src="https://insights.dice.com/wp-content/uploads/2018/08/shutterstock_1060094186-1024x768.jpg" width="400" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisohail2448&label=Profile%20views&color=0e75b6&style=flat" alt="alisohail2448" /> </p>
 
