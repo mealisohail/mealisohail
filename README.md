@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-vector/futuristic-background-computer-gamer_23-2148222498.jpg?w=740&t=st=1669826230~exp=1669826830~hmac=50bd97e1cd6aafd16fdb9b33d2205f88ac39980b1572b51f87f5f9de5d444244)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Sohail Akhtar ALi</h1>
